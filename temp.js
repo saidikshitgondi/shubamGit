@@ -5,4 +5,18 @@ history
 console.log("hello");  
 
 hihihihihihihi
+
+
+
+now adding changes in the sub pr to pr2 branch
+
+hahahhahah few more changes
+
+last one
+
+now pr1 changes
+
+one last change
+
 haha gotitmain
+
